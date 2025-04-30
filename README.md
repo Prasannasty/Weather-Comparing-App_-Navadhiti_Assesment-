@@ -2,7 +2,7 @@
 
 
 ## 📸 Live Demo
-  ### [Live Demo-Click here](https://weather-compare-uvce.netlify.app)
+  ### [Live Demo-Click here](https://weather-comparator.netlify.app)
 
 A modern and responsive weather application built with **React**, **Vite**, and **Tailwind CSS**. This app allows users to search for weather information for multiple cities, save favorite cities, and toggle between light and dark modes.
 
